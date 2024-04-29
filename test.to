@@ -1,0 +1,13 @@
+[Content]
+m_bAutoCalcNCapacity=0
+m_fMass=0
+m_fMaxCurrentCharge=0
+m_fMaxVoltageCharge=0
+m_fMinVoltageCharge=0
+m_fNorminalCapacitor=0
+m_fNorminalCapacity=0
+m_fNorminalIR=0
+m_fNorminalVoltage=0
+m_fSpecificCapacity=0
+SER=1321994960
+VER=27265537
