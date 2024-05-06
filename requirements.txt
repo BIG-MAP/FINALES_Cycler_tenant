@@ -1,0 +1,13 @@
+ahk
+fastapi
+fastapi_utils
+h5py
+hdfdict
+matplotlib
+numpy
+pandas
+pydantic
+pytz
+requests
+scipy
+uvicorn
